@@ -1,5 +1,5 @@
 import pytest
-from bank import BankAccount
+from myBank import BankAccount
 
 
 def test_deposit():
